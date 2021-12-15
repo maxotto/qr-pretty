@@ -1,0 +1,8 @@
+{
+  "name": "qr-pretty",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f1a96787"
+}
